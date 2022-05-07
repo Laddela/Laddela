@@ -1,5 +1,5 @@
 - 👋 Hi, I’m laddela!
-- 👀 I’m interested in blockchain technology.
+- 👀 I’m interested in computer graphics.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me discord/Ladi#1163
