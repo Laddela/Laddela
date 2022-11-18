@@ -1,5 +1,5 @@
 - 👋 Hi, I’m laddela!
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++
 - 📫 How to reach me discord/Ladi#1163
 
 <!---
