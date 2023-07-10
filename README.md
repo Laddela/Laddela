@@ -1,6 +1,8 @@
 - 👋 Hi, I’m laddela!
-- 🌱 I’m currently learning C++
-- 📫 How to reach me discord/Ladi#1163
+- 🌱 I’m currently learning python & sql;
+- 👩‍🎓 Persuing a degree in economics and finance;
+- 🎈 My hobbies include reading and swimming;
+- 📫 How to reach me: www.linkedin.com/in/laddela
 
 <!---
 Laddela/Laddela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
