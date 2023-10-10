@@ -1,8 +1,8 @@
 - 👋 Hi, I’m laddela!
 - 🌱 I’m currently learning python & sql;
-- 👩‍🎓 Persuing a degree in economics and finance;
 - 🎈 My hobbies: goodreads and medium;
 - 📫 How to reach me: www.linkedin.com/in/laddela;
+- 👩‍🎓 Persuing a degree in economics and finance;
 - 💼 Working in audit;
 
 
