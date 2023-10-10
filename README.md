@@ -1,9 +1,10 @@
 - 👋 Hi, I’m laddela!
 - 🌱 I’m currently learning python & sql;
 - 👩‍🎓 Persuing a degree in economics and finance;
-- 🎈 My hobbies include reading and swimming;
-- 📫 How to reach me: www.linkedin.com/in/laddela
-- 😊 Check out: medium & goodreads
+- 🎈 My hobbies: goodreads and medium;
+- 📫 How to reach me: www.linkedin.com/in/laddela;
+- 💼 Working in audit;
+
 
 <!---
 Laddela/Laddela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
